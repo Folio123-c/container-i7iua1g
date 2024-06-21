@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Folio123-c",
+  "repo": "container-i7iua1g",
+  "name": "Folio123-c",
+  "email": "niyof97@gmail.com",
+}
